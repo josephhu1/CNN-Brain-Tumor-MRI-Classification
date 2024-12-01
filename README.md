@@ -27,7 +27,7 @@ $ python predict.py <img_path>
 
 ## Note
 
-I only included the source code for the model, training script, and the prediction script. The source code for the full-stack web application is not included in this repository because I plan to continue developing this project in the future.
+I only included the source code for the model, training script, and the prediction script. The source code for the full-stack web application is not included in this repository if I plan to continue developing this project in the future.
 
 If you have any inquiries or are interested in collaboration opportunities, please contact me at:
 
@@ -38,3 +38,7 @@ If you have any inquiries or are interested in collaboration opportunities, plea
 - Back-end: Flask (Python)
 - Machine Learning Framework: Keras with TensorFlow backend
 - Python Libraries: TensorFlow, NumPy, Pandas, Matplotlib, Seaborn, PIL, Scikit-learn
+
+## Example Output
+<img src="https://github.com/user-attachments/assets/3ab6f442-a533-4d16-9b12-e64c7ac5e972" width="500" />
+<img src="https://github.com/user-attachments/assets/7481bc21-5680-40cc-b3cc-9ab5f99bb6c8" width="500" />
